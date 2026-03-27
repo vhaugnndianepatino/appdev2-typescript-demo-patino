@@ -1,3 +1,3 @@
-let userName1 = "Elmer";
+let userName = "Vhaugnn";
 
-console.log(typeof userName1)
+console.log(userName)
